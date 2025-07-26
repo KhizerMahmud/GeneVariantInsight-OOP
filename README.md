@@ -6,6 +6,11 @@ An interactive, full-stack bioinformatics application for analyzing and visualiz
 
 ---
 
+## Application Preview
+<img width="1536" height="1024" alt="bionf project" src="https://github.com/user-attachments/assets/667736c0-9592-428b-b2f4-86c911e225c2" />
+
+
+
 ## 🚀 Features
 
 - Upload and parse `.vcf` files
