@@ -1,0 +1,9 @@
+##fileformat=VCFv4.2
+##source=GeneVariantInsightSample
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene name">
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO
+1       879317  .       G       A       .       PASS    GENE=TP53
+2       476415  .       T       C       .       PASS    GENE=BRCA1
+3       345676  .       A       AT      .       PASS    GENE=EGFR
+1       234555  .       G       T       .       PASS    GENE=TP53
+X       123456  .       C       CG      .       PASS    GENE=MYC
